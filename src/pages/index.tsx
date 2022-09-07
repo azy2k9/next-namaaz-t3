@@ -1,9 +1,9 @@
-import type { NextPage } from "next";
-import Head from "next/head";
-import { trpc } from "../utils/trpc";
+import type { NextPage } from 'next';
+import Head from 'next/head';
+import { trpc } from '../utils/trpc';
 
 const Home: NextPage = () => {
-  const hello = trpc.example.hello.useQuery({ text: "from tRPC" });
+  const hello = trpc.example.hello.useQuery({ text: 'from tRPC' });
 
   return (
     <>
@@ -68,7 +68,7 @@ type TechnologyCardProps = {
 const TechnologyCard = ({
   name,
   description,
-  documentation,
+  documentation
 }: TechnologyCardProps) => {
   return (
     <section className="flex flex-col justify-center p-6 duration-500 border-2 border-gray-500 rounded shadow-xl motion-safe:hover:scale-105">
