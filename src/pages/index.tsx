@@ -1,9 +1,10 @@
 import type { NextPage } from 'next';
 import Head from 'next/head';
-import moment from 'moment';
+import useNamaaz from '../hooks/useNamaaz';
 
 const Home: NextPage = () => {
-  const date = moment().format('hh:mm');
+  const { current, next } = useNamaaz();
+
   return (
     <>
       <Head>
@@ -16,12 +17,12 @@ const Home: NextPage = () => {
       </Head>
       <main className="container flex flex-col min-h-screen min-w-full">
         <section className="flex flex-col justify-center items-center flex-1 bg-green-600 text-white font-semibold text-9xl">
-          <span className="text-5xl pb-2">Maghrib</span>
-          <span>{date}</span>
+          <span className="text-5xl pb-2">{current.name}</span>
+          <span>{current.time}</span>
         </section>
         <section className="flex flex-col justify-center items-center flex-1 bg-green-800 text-white font-semibold text-9xl">
-          <span className="text-5xl pb-2">Isha</span>
-          <span>{date}</span>
+          <span className="text-5xl pb-2">{next.name}</span>
+          <span>{next.time}</span>
         </section>
       </main>
     </>
