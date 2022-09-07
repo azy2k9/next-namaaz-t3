@@ -866,7 +866,7 @@
         "review_required": true
       },
       "Isha__7": {
-        "value": "9,43",
+        "value": "9.43",
         "position": [378, 421, 396, 428],
         "confidence": 0,
         "review_required": true
@@ -934,7 +934,7 @@
         "review_required": true
       },
       "Asr__3": {
-        "value": "6,00",
+        "value": "6.00",
         "position": [262, 436, 280, 443],
         "confidence": 0,
         "review_required": true
@@ -1608,7 +1608,7 @@
         "review_required": true
       },
       "Sunset__8": {
-        "value": "7,20",
+        "value": "7.20",
         "position": [411, 545, 429, 550],
         "confidence": 0,
         "review_required": true
@@ -1664,7 +1664,7 @@
         "review_required": true
       },
       "Time Maghrib__2": {
-        "value": "7,17",
+        "value": "7.17",
         "position": [230, 560, 248, 566],
         "confidence": 0,
         "review_required": true
