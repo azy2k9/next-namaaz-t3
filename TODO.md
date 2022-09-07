@@ -1,6 +1,6 @@
 # Tasks
 
-- [ ] Deploy to fly
+- [ ] Deploy to railway
 - [ ] Parse timetable.json file
 - [ ] Persist data to db
 - [ ] Render todays namaaz times
