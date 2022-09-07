@@ -1,9 +1,11 @@
+import moment, { Moment } from 'moment';
+
 interface TimeToDate {
   time: Time;
-  rd?: Date;
+  rd?: Moment;
 }
 
-export const timeToDateTime = ({ time, rd = new Date() }: TimeToDate): Date => {
+export const timeToDateTime = ({ time, rd = moment() }: TimeToDate): Moment => {
   const meridiem = time.split('.')[1]?.split(' ')[1] as Meridiem;
 
   let hours = Number(time.split('.')[0]);
@@ -13,5 +15,8 @@ export const timeToDateTime = ({ time, rd = new Date() }: TimeToDate): Date => {
   }
 
   const mins = Number(time.split('.')[1]?.split(' ')[0]);
-  return new Date(rd.getFullYear(), rd.getMonth(), rd.getDate(), hours, mins);
+
+  return moment(
+    new Date(rd.get('year'), rd.get('month'), rd.get('date'), hours, mins)
+  );
 };

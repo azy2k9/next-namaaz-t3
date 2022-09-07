@@ -18,11 +18,11 @@ const Home: NextPage = () => {
       <main className="container flex flex-col min-h-screen min-w-full">
         <section className="flex flex-col justify-center items-center flex-1 bg-green-600 text-white font-semibold text-9xl">
           <span className="text-5xl pb-2">{current.name}</span>
-          <span>{current.time}</span>
+          <span>{current.time.format('hh:mm a')}</span>
         </section>
         <section className="flex flex-col justify-center items-center flex-1 bg-green-800 text-white font-semibold text-9xl">
           <span className="text-5xl pb-2">{next.name}</span>
-          <span>{next.time}</span>
+          <span>{next.time.format('hh:mm a')}</span>
         </section>
       </main>
     </>
