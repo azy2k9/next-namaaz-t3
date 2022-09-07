@@ -1,6 +1,7 @@
 # Tasks
 
 - [x] Deploy to railway
-- [ ] Parse timetable.json file
+- [x] Parse timetable.json file
+- [x] Render todays namaaz times
 - [ ] Persist data to db
-- [ ] Render todays namaaz times
+- [ ] Switch to database driven data instead of timetable parsed data
