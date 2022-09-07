@@ -1,0 +1,5031 @@
+{
+    "f36f08b8555a41f2805d44df44c24b35": {
+        "meta_data": {
+            "title": "sep2.jpeg",
+            "doc_id": "f36f08b8555a41f2805d44df44c24b35",
+            "type": "financial_statement__DFSGu__CFuBF",
+            "uploaded_from": "web",
+            "user_doc_id": null,
+            "doc_meta_data": "",
+            "folder_name": "",
+            "created_at_iso": "2022-09-06T16:49:35+00:00",
+            "modified_at_iso": "2022-09-06T16:50:23+00:00",
+            "status": "reviewing",
+            "review_url": "https://app.docsumo.com/review-document/f36f08b8555a41f2805d44df44c24b35"
+        },
+        "data": {
+            "Tables": [
+                {
+                    "Isha__1": {
+                        "value": "10.45",
+                        "position": [
+                            192,
+                            281,
+                            214,
+                            289
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Time Maghrib__2": {
+                        "value": "8.01",
+                        "position": [
+                            229,
+                            282,
+                            246,
+                            289
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__3": {
+                        "value": "6.30",
+                        "position": [
+                            261,
+                            282,
+                            279,
+                            288
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__4": {
+                        "value": "2.00",
+                        "position": [
+                            287,
+                            282,
+                            305,
+                            288
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Fajr__5": {
+                        "value": "5.30",
+                        "position": [
+                            313,
+                            282,
+                            331,
+                            288
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "__6": {
+                        "value": "12.02",
+                        "position": [
+                            342,
+                            282,
+                            364,
+                            288
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Isha__7": {
+                        "value": "10.12",
+                        "position": [
+                            376,
+                            283,
+                            399,
+                            289
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunset__8": {
+                        "value": "8.01",
+                        "position": [
+                            411,
+                            283,
+                            430,
+                            289
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__9": {
+                        "value": "5.51",
+                        "position": [
+                            444,
+                            282,
+                            461,
+                            289
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__10": {
+                        "value": "1.09",
+                        "position": [
+                            474,
+                            282,
+                            491,
+                            289
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunrise__11": {
+                        "value": "6.16",
+                        "position": [
+                            506,
+                            282,
+                            523,
+                            289
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    },
+                    "Ends & Fair Sahari__12": {
+                        "value": "4.03",
+                        "position": [
+                            541,
+                            281,
+                            558,
+                            289
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    },
+                    "Safar/ Rabbi Ul Awwal__13": {
+                        "value": "4",
+                        "position": [
+                            585,
+                            282,
+                            590,
+                            289
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Day__14": {
+                        "value": "Thu",
+                        "position": [
+                            611,
+                            282,
+                            624,
+                            289
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sep__15": {
+                        "value": "1",
+                        "position": [
+                            643,
+                            283,
+                            649,
+                            289
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                },
+                {
+                    "Isha__1": {
+                        "value": "10.45",
+                        "position": [
+                            193,
+                            298,
+                            214,
+                            304
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Time Maghrib__2": {
+                        "value": "7.59",
+                        "position": [
+                            229,
+                            298,
+                            247,
+                            304
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__3": {
+                        "value": "6.30",
+                        "position": [
+                            262,
+                            297,
+                            279,
+                            304
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__4": {
+                        "value": "1.30",
+                        "position": [
+                            288,
+                            297,
+                            305,
+                            304
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Fajr__5": {
+                        "value": "5.30",
+                        "position": [
+                            313,
+                            297,
+                            330,
+                            304
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "__6": {
+                        "value": "12.02",
+                        "position": [
+                            342,
+                            297,
+                            364,
+                            304
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Isha__7": {
+                        "value": "10.09",
+                        "position": [
+                            376,
+                            298,
+                            398,
+                            304
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunset__8": {
+                        "value": "7.59",
+                        "position": [
+                            411,
+                            297,
+                            429,
+                            304
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__9": {
+                        "value": "5.49",
+                        "position": [
+                            443,
+                            298,
+                            462,
+                            304
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__10": {
+                        "value": "1.09",
+                        "position": [
+                            474,
+                            298,
+                            492,
+                            303
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunrise__11": {
+                        "value": "6.17",
+                        "position": [
+                            506,
+                            298,
+                            525,
+                            304
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Ends & Fair Sahari__12": {
+                        "value": "4.06",
+                        "position": [
+                            541,
+                            298,
+                            558,
+                            304
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Safar/ Rabbi Ul Awwal__13": {
+                        "value": "5",
+                        "position": [
+                            585,
+                            298,
+                            591,
+                            305
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Day__14": {
+                        "value": "Fri",
+                        "position": [
+                            610,
+                            297,
+                            620,
+                            304
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sep__15": {
+                        "value": "2",
+                        "position": [
+                            644,
+                            298,
+                            650,
+                            304
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                },
+                {
+                    "Isha__1": {
+                        "value": "10.30",
+                        "position": [
+                            192,
+                            313,
+                            215,
+                            319
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Time Maghrib__2": {
+                        "value": "7.56",
+                        "position": [
+                            230,
+                            313,
+                            247,
+                            319
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__3": {
+                        "value": "6.15",
+                        "position": [
+                            262,
+                            313,
+                            279,
+                            319
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__4": {
+                        "value": "2.00",
+                        "position": [
+                            287,
+                            313,
+                            304,
+                            319
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Fajr__5": {
+                        "value": "5.45",
+                        "position": [
+                            313,
+                            313,
+                            330,
+                            319
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "__6": {
+                        "value": "12.02",
+                        "position": [
+                            342,
+                            313,
+                            363,
+                            319
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Isha__7": {
+                        "value": "10.06",
+                        "position": [
+                            376,
+                            313,
+                            398,
+                            319
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunset__8": {
+                        "value": "7.56",
+                        "position": [
+                            412,
+                            313,
+                            429,
+                            319
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__9": {
+                        "value": "5.47",
+                        "position": [
+                            444,
+                            312,
+                            461,
+                            319
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__10": {
+                        "value": "1.09",
+                        "position": [
+                            474,
+                            313,
+                            492,
+                            319
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunrise__11": {
+                        "value": "6.19",
+                        "position": [
+                            506,
+                            313,
+                            525,
+                            319
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Ends & Fair Sahari__12": {
+                        "value": "4.09",
+                        "position": [
+                            542,
+                            313,
+                            560,
+                            320
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Safar/ Rabbi Ul Awwal__13": {
+                        "value": "6",
+                        "position": [
+                            568,
+                            308,
+                            608,
+                            323
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    },
+                    "Day__14": {
+                        "value": "Sat",
+                        "position": [
+                            610,
+                            312,
+                            624,
+                            320
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sep__15": {
+                        "value": "3",
+                        "position": [
+                            644,
+                            313,
+                            650,
+                            319
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                },
+                {
+                    "Isha__1": {
+                        "value": "10.30",
+                        "position": [
+                            192,
+                            329,
+                            215,
+                            335
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Time Maghrib__2": {
+                        "value": "7.54",
+                        "position": [
+                            229,
+                            328,
+                            247,
+                            335
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__3": {
+                        "value": "6.15",
+                        "position": [
+                            262,
+                            328,
+                            279,
+                            335
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__4": {
+                        "value": "2.00",
+                        "position": [
+                            287,
+                            328,
+                            305,
+                            335
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Fajr__5": {
+                        "value": "5.45",
+                        "position": [
+                            313,
+                            328,
+                            330,
+                            335
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "__6": {
+                        "value": "12.02",
+                        "position": [
+                            342,
+                            328,
+                            364,
+                            335
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Isha__7": {
+                        "value": "10.02",
+                        "position": [
+                            376,
+                            328,
+                            398,
+                            335
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunset__8": {
+                        "value": "7.54",
+                        "position": [
+                            411,
+                            328,
+                            429,
+                            334
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__9": {
+                        "value": "5.46",
+                        "position": [
+                            443,
+                            328,
+                            461,
+                            335
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__10": {
+                        "value": "1.09",
+                        "position": [
+                            474,
+                            328,
+                            492,
+                            335
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunrise__11": {
+                        "value": "6.21",
+                        "position": [
+                            507,
+                            329,
+                            524,
+                            335
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Ends & Fair Sahari__12": {
+                        "value": "4.12",
+                        "position": [
+                            542,
+                            328,
+                            559,
+                            335
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Safar/ Rabbi Ul Awwal__13": {
+                        "value": "7",
+                        "position": [
+                            586,
+                            328,
+                            591,
+                            335
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Day__14": {
+                        "value": "Sun",
+                        "position": [
+                            610,
+                            328,
+                            625,
+                            334
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sep__15": {
+                        "value": "4",
+                        "position": [
+                            644,
+                            328,
+                            649,
+                            334
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    }
+                },
+                {
+                    "Isha__1": {
+                        "value": "10.30",
+                        "position": [
+                            192,
+                            344,
+                            215,
+                            351
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Time Maghrib__2": {
+                        "value": "7.52",
+                        "position": [
+                            230,
+                            344,
+                            248,
+                            350
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__3": {
+                        "value": "6.15",
+                        "position": [
+                            261,
+                            344,
+                            280,
+                            350
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__4": {
+                        "value": "2.00",
+                        "position": [
+                            287,
+                            344,
+                            305,
+                            350
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Fajr__5": {
+                        "value": "5.45",
+                        "position": [
+                            313,
+                            344,
+                            331,
+                            350
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "__6": {
+                        "value": "12.02",
+                        "position": [
+                            342,
+                            344,
+                            364,
+                            350
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Isha__7": {
+                        "value": "9.59",
+                        "position": [
+                            378,
+                            344,
+                            396,
+                            350
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunset__8": {
+                        "value": "7.52",
+                        "position": [
+                            411,
+                            343,
+                            429,
+                            350
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__9": {
+                        "value": "5.44",
+                        "position": [
+                            444,
+                            344,
+                            462,
+                            350
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__10": {
+                        "value": "1.08",
+                        "position": [
+                            474,
+                            344,
+                            491,
+                            350
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    },
+                    "Sunrise__11": {
+                        "value": "6.23",
+                        "position": [
+                            506,
+                            344,
+                            524,
+                            350
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    },
+                    "Ends & Fair Sahari__12": {
+                        "value": "4.14",
+                        "position": [
+                            542,
+                            344,
+                            559,
+                            349
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Safar/ Rabbi Ul Awwal__13": {
+                        "value": "8",
+                        "position": [
+                            586,
+                            343,
+                            592,
+                            350
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Day__14": {
+                        "value": "Mon",
+                        "position": [
+                            610,
+                            344,
+                            628,
+                            350
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sep__15": {
+                        "value": "5",
+                        "position": [
+                            636,
+                            339,
+                            658,
+                            354
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    }
+                },
+                {
+                    "Isha__1": {
+                        "value": "10.30",
+                        "position": [
+                            193,
+                            360,
+                            215,
+                            366
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Time Maghrib__2": {
+                        "value": "7,49",
+                        "position": [
+                            229,
+                            360,
+                            248,
+                            366
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__3": {
+                        "value": "6.15",
+                        "position": [
+                            262,
+                            359,
+                            280,
+                            365
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__4": {
+                        "value": "2.00",
+                        "position": [
+                            287,
+                            359,
+                            304,
+                            365
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Fajr__5": {
+                        "value": "5.45",
+                        "position": [
+                            313,
+                            359,
+                            330,
+                            365
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "__6": {
+                        "value": "12.02",
+                        "position": [
+                            342,
+                            359,
+                            364,
+                            365
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Isha__7": {
+                        "value": "9.56",
+                        "position": [
+                            378,
+                            359,
+                            396,
+                            365
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunset__8": {
+                        "value": "7.49",
+                        "position": [
+                            411,
+                            359,
+                            429,
+                            366
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__9": {
+                        "value": "5.42",
+                        "position": [
+                            443,
+                            360,
+                            462,
+                            366
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__10": {
+                        "value": "1.08",
+                        "position": [
+                            474,
+                            360,
+                            492,
+                            366
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunrise__11": {
+                        "value": "6.24",
+                        "position": [
+                            506,
+                            360,
+                            525,
+                            366
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Ends & Fair Sahari__12": {
+                        "value": "4.17",
+                        "position": [
+                            542,
+                            360,
+                            560,
+                            365
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Safar/ Rabbi Ul Awwal__13": {
+                        "value": "9",
+                        "position": [
+                            568,
+                            354,
+                            608,
+                            369
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    },
+                    "Day__14": {
+                        "value": "Tue",
+                        "position": [
+                            610,
+                            360,
+                            625,
+                            366
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sep__15": {
+                        "value": "6",
+                        "position": [
+                            636,
+                            354,
+                            658,
+                            369
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    }
+                },
+                {
+                    "Isha__1": {
+                        "value": "10.30",
+                        "position": [
+                            192,
+                            375,
+                            215,
+                            381
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Time Maghrib__2": {
+                        "value": "7.47",
+                        "position": [
+                            230,
+                            374,
+                            246,
+                            381
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__3": {
+                        "value": "6.15",
+                        "position": [
+                            262,
+                            374,
+                            279,
+                            381
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__4": {
+                        "value": "2.00",
+                        "position": [
+                            287,
+                            374,
+                            304,
+                            381
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Fajr__5": {
+                        "value": "5.45",
+                        "position": [
+                            313,
+                            374,
+                            331,
+                            381
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "__6": {
+                        "value": "12.02",
+                        "position": [
+                            342,
+                            374,
+                            365,
+                            381
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Isha__7": {
+                        "value": "9.53",
+                        "position": [
+                            378,
+                            374,
+                            395,
+                            381
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunset__8": {
+                        "value": "7.47",
+                        "position": [
+                            411,
+                            375,
+                            429,
+                            381
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__9": {
+                        "value": "5.40",
+                        "position": [
+                            443,
+                            374,
+                            462,
+                            380
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__10": {
+                        "value": "1.08",
+                        "position": [
+                            474,
+                            375,
+                            491,
+                            380
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunrise__11": {
+                        "value": "6,26",
+                        "position": [
+                            506,
+                            375,
+                            523,
+                            381
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    },
+                    "Ends & Fair Sahari__12": {
+                        "value": "4.19",
+                        "position": [
+                            541,
+                            375,
+                            559,
+                            381
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Safar/ Rabbi Ul Awwal__13": {
+                        "value": "10",
+                        "position": [
+                            584,
+                            375,
+                            594,
+                            381
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Day__14": {
+                        "value": "Wed",
+                        "position": [
+                            610,
+                            374,
+                            630,
+                            381
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sep__15": {
+                        "value": "7",
+                        "position": [
+                            636,
+                            369,
+                            658,
+                            384
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    }
+                },
+                {
+                    "Isha__1": {
+                        "value": "10.30",
+                        "position": [
+                            192,
+                            390,
+                            215,
+                            397
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Time Maghrib__2": {
+                        "value": "7.44",
+                        "position": [
+                            230,
+                            389,
+                            246,
+                            397
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__3": {
+                        "value": "6.15",
+                        "position": [
+                            262,
+                            390,
+                            279,
+                            397
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__4": {
+                        "value": "2.00",
+                        "position": [
+                            287,
+                            390,
+                            305,
+                            397
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Fajr__5": {
+                        "value": "5.45",
+                        "position": [
+                            313,
+                            390,
+                            331,
+                            397
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "__6": {
+                        "value": "12.03",
+                        "position": [
+                            342,
+                            390,
+                            365,
+                            397
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Isha__7": {
+                        "value": "9.50",
+                        "position": [
+                            378,
+                            390,
+                            395,
+                            398
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunset__8": {
+                        "value": "7.44",
+                        "position": [
+                            412,
+                            390,
+                            429,
+                            396
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__9": {
+                        "value": "5.38",
+                        "position": [
+                            443,
+                            390,
+                            461,
+                            396
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__10": {
+                        "value": "1.07",
+                        "position": [
+                            473,
+                            389,
+                            491,
+                            396
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    },
+                    "Sunrise__11": {
+                        "value": "6.28",
+                        "position": [
+                            506,
+                            389,
+                            523,
+                            397
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Ends & Fair Sahari__12": {
+                        "value": "4.22",
+                        "position": [
+                            542,
+                            390,
+                            558,
+                            397
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    },
+                    "Safar/ Rabbi Ul Awwal__13": {
+                        "value": "11",
+                        "position": [
+                            584,
+                            391,
+                            593,
+                            397
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Day__14": {
+                        "value": "Thu",
+                        "position": [
+                            611,
+                            391,
+                            624,
+                            397
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sep__15": {
+                        "value": "8",
+                        "position": [
+                            636,
+                            384,
+                            658,
+                            400
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    }
+                },
+                {
+                    "Isha__1": {
+                        "value": "10.30",
+                        "position": [
+                            193,
+                            405,
+                            214,
+                            412
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Time Maghrib__2": {
+                        "value": "7.42",
+                        "position": [
+                            229,
+                            405,
+                            247,
+                            412
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__3": {
+                        "value": "6.15",
+                        "position": [
+                            262,
+                            404,
+                            278,
+                            412
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__4": {
+                        "value": "1.30",
+                        "position": [
+                            287,
+                            404,
+                            304,
+                            411
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Fajr__5": {
+                        "value": "5.45",
+                        "position": [
+                            312,
+                            404,
+                            330,
+                            411
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "__6": {
+                        "value": "12.03",
+                        "position": [
+                            341,
+                            404,
+                            366,
+                            411
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Isha__7": {
+                        "value": "9.46",
+                        "position": [
+                            378,
+                            405,
+                            396,
+                            412
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunset__8": {
+                        "value": "7.42",
+                        "position": [
+                            411,
+                            405,
+                            429,
+                            412
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__9": {
+                        "value": "5.36",
+                        "position": [
+                            443,
+                            405,
+                            462,
+                            412
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__10": {
+                        "value": "1.07",
+                        "position": [
+                            474,
+                            406,
+                            491,
+                            412
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunrise__11": {
+                        "value": "6.30",
+                        "position": [
+                            506,
+                            406,
+                            524,
+                            412
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    },
+                    "Ends & Fair Sahari__12": {
+                        "value": "4.24",
+                        "position": [
+                            542,
+                            406,
+                            559,
+                            412
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Safar/ Rabbi Ul Awwal__13": {
+                        "value": "12",
+                        "position": [
+                            584,
+                            406,
+                            593,
+                            411
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Day__14": {
+                        "value": "Fri",
+                        "position": [
+                            610,
+                            406,
+                            622,
+                            412
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sep__15": {
+                        "value": "9",
+                        "position": [
+                            636,
+                            400,
+                            658,
+                            416
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    }
+                },
+                {
+                    "Isha__1": {
+                        "value": "10.15",
+                        "position": [
+                            193,
+                            417,
+                            215,
+                            428
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Time Maghrib__2": {
+                        "value": "7.39",
+                        "position": [
+                            229,
+                            421,
+                            247,
+                            428
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__3": {
+                        "value": "6.00",
+                        "position": [
+                            262,
+                            421,
+                            279,
+                            427
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__4": {
+                        "value": "2.00",
+                        "position": [
+                            287,
+                            421,
+                            305,
+                            427
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Fajr__5": {
+                        "value": "6.00",
+                        "position": [
+                            313,
+                            421,
+                            331,
+                            427
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "__6": {
+                        "value": "12.03",
+                        "position": [
+                            342,
+                            421,
+                            364,
+                            427
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Isha__7": {
+                        "value": "9,43",
+                        "position": [
+                            378,
+                            421,
+                            396,
+                            428
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunset__8": {
+                        "value": "7.39",
+                        "position": [
+                            411,
+                            421,
+                            429,
+                            428
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__9": {
+                        "value": "5.34",
+                        "position": [
+                            443,
+                            421,
+                            462,
+                            427
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__10": {
+                        "value": "1.06",
+                        "position": [
+                            474,
+                            421,
+                            491,
+                            427
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    },
+                    "Sunrise__11": {
+                        "value": "6.31",
+                        "position": [
+                            506,
+                            421,
+                            524,
+                            427
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    },
+                    "Ends & Fair Sahari__12": {
+                        "value": "4.27",
+                        "position": [
+                            542,
+                            421,
+                            559,
+                            427
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Safar/ Rabbi Ul Awwal__13": {
+                        "value": "13",
+                        "position": [
+                            584,
+                            421,
+                            595,
+                            427
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Day__14": {
+                        "value": "Sat",
+                        "position": [
+                            610,
+                            421,
+                            624,
+                            428
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sep__15": {
+                        "value": "10",
+                        "position": [
+                            636,
+                            416.9,
+                            658,
+                            432.3
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    }
+                },
+                {
+                    "Isha__1": {
+                        "value": "10.15",
+                        "position": [
+                            193,
+                            437,
+                            214,
+                            443
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Time Maghrib__2": {
+                        "value": "7.37",
+                        "position": [
+                            229,
+                            436,
+                            247,
+                            442
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__3": {
+                        "value": "6,00",
+                        "position": [
+                            262,
+                            436,
+                            280,
+                            443
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__4": {
+                        "value": "2.00",
+                        "position": [
+                            287,
+                            436,
+                            305,
+                            443
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Fajr__5": {
+                        "value": "6.00",
+                        "position": [
+                            313,
+                            436,
+                            330,
+                            443
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "__6": {
+                        "value": "12.03",
+                        "position": [
+                            341,
+                            436,
+                            365,
+                            443
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Isha__7": {
+                        "value": "9.40",
+                        "position": [
+                            378,
+                            436,
+                            395,
+                            443
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunset__8": {
+                        "value": "7.37",
+                        "position": [
+                            412,
+                            436,
+                            428,
+                            443
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__9": {
+                        "value": "5.32",
+                        "position": [
+                            444,
+                            436,
+                            461,
+                            443
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__10": {
+                        "value": "1.06",
+                        "position": [
+                            474,
+                            437,
+                            490,
+                            443
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunrise__11": {
+                        "value": "6.33",
+                        "position": [
+                            507,
+                            436,
+                            525,
+                            442
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Ends & Fair Sahari__12": {
+                        "value": "4.29",
+                        "position": [
+                            542,
+                            436,
+                            558,
+                            443
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Safar/ Rabbi Ul Awwal__13": {
+                        "value": "14",
+                        "position": [
+                            584,
+                            437,
+                            594,
+                            443
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Day__14": {
+                        "value": "Sun",
+                        "position": [
+                            610,
+                            436,
+                            625,
+                            443
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sep__15": {
+                        "value": "11",
+                        "position": [
+                            642,
+                            437,
+                            651,
+                            443
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                },
+                {
+                    "Isha__1": {
+                        "value": "10.15",
+                        "position": [
+                            193,
+                            452,
+                            214,
+                            457
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Time Maghrib__2": {
+                        "value": "7.35",
+                        "position": [
+                            229,
+                            452,
+                            248,
+                            457
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__3": {
+                        "value": "6.00",
+                        "position": [
+                            262,
+                            452,
+                            280,
+                            459
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__4": {
+                        "value": "2.00",
+                        "position": [
+                            287,
+                            452,
+                            305,
+                            459
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Fajr__5": {
+                        "value": "6.00",
+                        "position": [
+                            313,
+                            452,
+                            331,
+                            459
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "__6": {
+                        "value": "12.03",
+                        "position": [
+                            342,
+                            452,
+                            365,
+                            459
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Isha__7": {
+                        "value": "9.37",
+                        "position": [
+                            378,
+                            452,
+                            396,
+                            458
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunset__8": {
+                        "value": "7.35",
+                        "position": [
+                            412,
+                            452,
+                            430,
+                            458
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__9": {
+                        "value": "5.30",
+                        "position": [
+                            444,
+                            452,
+                            462,
+                            458
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__10": {
+                        "value": "1.06",
+                        "position": [
+                            474,
+                            452,
+                            491,
+                            458
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunrise__11": {
+                        "value": "6.35",
+                        "position": [
+                            506,
+                            452,
+                            525,
+                            458
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    },
+                    "Ends & Fair Sahari__12": {
+                        "value": "4.31",
+                        "position": [
+                            541,
+                            451,
+                            558,
+                            458
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Safar/ Rabbi Ul Awwal__13": {
+                        "value": "15",
+                        "position": [
+                            584,
+                            451,
+                            594,
+                            458
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Day__14": {
+                        "value": "Mon",
+                        "position": [
+                            611,
+                            450,
+                            628,
+                            459
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sep__15": {
+                        "value": "12",
+                        "position": [
+                            641,
+                            450,
+                            650,
+                            458
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                },
+                {
+                    "Isha__1": {
+                        "value": "10.15",
+                        "position": [
+                            192,
+                            468,
+                            215,
+                            474
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Time Maghrib__2": {
+                        "value": "7.32",
+                        "position": [
+                            229,
+                            468,
+                            247,
+                            474
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__3": {
+                        "value": "6.00",
+                        "position": [
+                            262,
+                            467,
+                            280,
+                            474
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__4": {
+                        "value": "2.00",
+                        "position": [
+                            287,
+                            467,
+                            305,
+                            474
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Fajr__5": {
+                        "value": "6.00",
+                        "position": [
+                            313,
+                            467,
+                            330,
+                            474
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "__6": {
+                        "value": "12.02",
+                        "position": [
+                            342,
+                            467,
+                            364,
+                            474
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Isha__7": {
+                        "value": "9.34",
+                        "position": [
+                            378,
+                            467,
+                            396,
+                            474
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunset__8": {
+                        "value": "7.32",
+                        "position": [
+                            411,
+                            467,
+                            429,
+                            474
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__9": {
+                        "value": "5.28",
+                        "position": [
+                            444,
+                            466,
+                            460,
+                            473
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__10": {
+                        "value": "1.05",
+                        "position": [
+                            473,
+                            466,
+                            490,
+                            472
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    },
+                    "Sunrise__11": {
+                        "value": "6.37",
+                        "position": [
+                            506,
+                            467,
+                            524,
+                            474
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Ends & Fair Sahari__12": {
+                        "value": "4.34",
+                        "position": [
+                            542,
+                            467,
+                            558,
+                            474
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Safar/ Rabbi Ul Awwal__13": {
+                        "value": "16",
+                        "position": [
+                            584,
+                            467,
+                            594,
+                            474
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Day__14": {
+                        "value": "Tue",
+                        "position": [
+                            610,
+                            467,
+                            626,
+                            473
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sep__15": {
+                        "value": "13",
+                        "position": [
+                            642,
+                            467,
+                            652,
+                            473
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                },
+                {
+                    "Isha__1": {
+                        "value": "10.15",
+                        "position": [
+                            192,
+                            483,
+                            216,
+                            489
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Time Maghrib__2": {
+                        "value": "7.30",
+                        "position": [
+                            230,
+                            483,
+                            247,
+                            489
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__3": {
+                        "value": "6.00",
+                        "position": [
+                            262,
+                            483,
+                            279,
+                            489
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__4": {
+                        "value": "2.00",
+                        "position": [
+                            287,
+                            483,
+                            305,
+                            489
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Fajr__5": {
+                        "value": "6.00",
+                        "position": [
+                            313,
+                            483,
+                            330,
+                            489
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "__6": {
+                        "value": "12.02",
+                        "position": [
+                            342,
+                            483,
+                            364,
+                            489
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Isha__7": {
+                        "value": "9.31",
+                        "position": [
+                            378,
+                            483,
+                            396,
+                            489
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunset__8": {
+                        "value": "7.30",
+                        "position": [
+                            411,
+                            483,
+                            429,
+                            489
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__9": {
+                        "value": "5.26",
+                        "position": [
+                            443,
+                            482,
+                            462,
+                            488
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__10": {
+                        "value": "1.05",
+                        "position": [
+                            474,
+                            482,
+                            492,
+                            488
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    },
+                    "Sunrise__11": {
+                        "value": "6.38",
+                        "position": [
+                            506,
+                            483,
+                            524,
+                            489
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Ends & Fair Sahari__12": {
+                        "value": "4.36",
+                        "position": [
+                            541,
+                            482,
+                            559,
+                            488
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Safar/ Rabbi Ul Awwal__13": {
+                        "value": "17",
+                        "position": [
+                            584,
+                            483,
+                            593,
+                            488
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Day__14": {
+                        "value": "Wed",
+                        "position": [
+                            611,
+                            482,
+                            628,
+                            488
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sep__15": {
+                        "value": "14",
+                        "position": [
+                            641,
+                            482,
+                            650,
+                            487
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                },
+                {
+                    "Isha__1": {
+                        "value": "10.15",
+                        "position": [
+                            193,
+                            499,
+                            214,
+                            505
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Time Maghrib__2": {
+                        "value": "7.27",
+                        "position": [
+                            229,
+                            499,
+                            247,
+                            505
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__3": {
+                        "value": "6.00",
+                        "position": [
+                            262,
+                            498,
+                            280,
+                            505
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__4": {
+                        "value": "2.00",
+                        "position": [
+                            287,
+                            498,
+                            305,
+                            505
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Fajr__5": {
+                        "value": "6.00",
+                        "position": [
+                            313,
+                            498,
+                            331,
+                            505
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "__6": {
+                        "value": "12.02",
+                        "position": [
+                            342,
+                            498,
+                            364,
+                            505
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Isha__7": {
+                        "value": "9.28",
+                        "position": [
+                            378,
+                            498,
+                            396,
+                            504
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunset__8": {
+                        "value": "7.27",
+                        "position": [
+                            412,
+                            498,
+                            430,
+                            503
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__9": {
+                        "value": "5.24",
+                        "position": [
+                            444,
+                            498,
+                            460,
+                            504
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__10": {
+                        "value": "1.05",
+                        "position": [
+                            473,
+                            498,
+                            490,
+                            503
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    },
+                    "Sunrise__11": {
+                        "value": "6.40",
+                        "position": [
+                            506,
+                            498,
+                            525,
+                            504
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Ends & Fair Sahari__12": {
+                        "value": "4.38",
+                        "position": [
+                            542,
+                            498,
+                            559,
+                            503
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Safar/ Rabbi Ul Awwal__13": {
+                        "value": "18",
+                        "position": [
+                            584,
+                            499,
+                            593,
+                            504
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Day__14": {
+                        "value": "Thu",
+                        "position": [
+                            611,
+                            498,
+                            626,
+                            504
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sep__15": {
+                        "value": "15",
+                        "position": [
+                            642,
+                            498,
+                            653,
+                            503
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                },
+                {
+                    "Isha__1": {
+                        "value": "10.15",
+                        "position": [
+                            192,
+                            513,
+                            215,
+                            519
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Time Maghrib__2": {
+                        "value": "7.25",
+                        "position": [
+                            230,
+                            513,
+                            247,
+                            520
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__3": {
+                        "value": "6.00",
+                        "position": [
+                            262,
+                            514,
+                            279,
+                            520
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__4": {
+                        "value": "1.30",
+                        "position": [
+                            287,
+                            514,
+                            306,
+                            520
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Fajr__5": {
+                        "value": "6.00",
+                        "position": [
+                            313,
+                            514,
+                            331,
+                            520
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "__6": {
+                        "value": "12.02",
+                        "position": [
+                            342,
+                            514,
+                            365,
+                            520
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Isha__7": {
+                        "value": "9.25",
+                        "position": [
+                            378,
+                            513,
+                            396,
+                            519
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunset__8": {
+                        "value": "7.25",
+                        "position": [
+                            411,
+                            514,
+                            430,
+                            520
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__9": {
+                        "value": "5.22",
+                        "position": [
+                            444,
+                            514,
+                            462,
+                            519
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__10": {
+                        "value": "1.04",
+                        "position": [
+                            474,
+                            514,
+                            491,
+                            519
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunrise__11": {
+                        "value": "6.42",
+                        "position": [
+                            506,
+                            513,
+                            524,
+                            519
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    },
+                    "Ends & Fair Sahari__12": {
+                        "value": "4.41",
+                        "position": [
+                            542,
+                            513,
+                            558,
+                            519
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    },
+                    "Safar/ Rabbi Ul Awwal__13": {
+                        "value": "19",
+                        "position": [
+                            584,
+                            514,
+                            593,
+                            519
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Day__14": {
+                        "value": "Fri",
+                        "position": [
+                            610,
+                            513,
+                            621,
+                            519
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sep__15": {
+                        "value": "16",
+                        "position": [
+                            642,
+                            514,
+                            652,
+                            520
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                },
+                {
+                    "Isha__1": {
+                        "value": "10.00",
+                        "position": [
+                            193,
+                            529,
+                            214,
+                            534
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Time Maghrib__2": {
+                        "value": "7.22",
+                        "position": [
+                            229,
+                            528,
+                            247,
+                            534
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__3": {
+                        "value": "5.45",
+                        "position": [
+                            262,
+                            529,
+                            279,
+                            535
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__4": {
+                        "value": "2.00",
+                        "position": [
+                            287,
+                            529,
+                            305,
+                            535
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Fajr__5": {
+                        "value": "6.15",
+                        "position": [
+                            313,
+                            529,
+                            331,
+                            535
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "__6": {
+                        "value": "12.02",
+                        "position": [
+                            342,
+                            529,
+                            364,
+                            535
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Isha__7": {
+                        "value": "9.22",
+                        "position": [
+                            378,
+                            528,
+                            395,
+                            535
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunset__8": {
+                        "value": "7.22",
+                        "position": [
+                            412,
+                            529,
+                            429,
+                            534
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__9": {
+                        "value": "5.20",
+                        "position": [
+                            443,
+                            529,
+                            461,
+                            535
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__10": {
+                        "value": "1.04",
+                        "position": [
+                            474,
+                            529,
+                            492,
+                            535
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    },
+                    "Sunrise__11": {
+                        "value": "6.44",
+                        "position": [
+                            507,
+                            528,
+                            524,
+                            535
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Ends & Fair Sahari__12": {
+                        "value": "4.43",
+                        "position": [
+                            542,
+                            529,
+                            558,
+                            535
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Safar/ Rabbi Ul Awwal__13": {
+                        "value": "20",
+                        "position": [
+                            583,
+                            529,
+                            594,
+                            535
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Day__14": {
+                        "value": "Sat",
+                        "position": [
+                            610,
+                            528,
+                            624,
+                            535
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sep__15": {
+                        "value": "17",
+                        "position": [
+                            642,
+                            529,
+                            652,
+                            535
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                },
+                {
+                    "Isha__1": {
+                        "value": "10.00",
+                        "position": [
+                            193,
+                            544,
+                            214,
+                            550
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Time Maghrib__2": {
+                        "value": "7.20",
+                        "position": [
+                            229,
+                            543,
+                            248,
+                            551
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__3": {
+                        "value": "5.45",
+                        "position": [
+                            261,
+                            544,
+                            279,
+                            551
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__4": {
+                        "value": "2.00",
+                        "position": [
+                            287,
+                            544,
+                            305,
+                            551
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Fajr__5": {
+                        "value": "6.15",
+                        "position": [
+                            313,
+                            544,
+                            331,
+                            551
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "__6": {
+                        "value": "12.02",
+                        "position": [
+                            342,
+                            544,
+                            364,
+                            551
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Isha__7": {
+                        "value": "9.19",
+                        "position": [
+                            378,
+                            545,
+                            395,
+                            550
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunset__8": {
+                        "value": "7,20",
+                        "position": [
+                            411,
+                            545,
+                            429,
+                            550
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__9": {
+                        "value": "5.18",
+                        "position": [
+                            444,
+                            545,
+                            461,
+                            550
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__10": {
+                        "value": "1.04",
+                        "position": [
+                            474,
+                            545,
+                            492,
+                            551
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunrise__11": {
+                        "value": "6.45",
+                        "position": [
+                            506,
+                            544,
+                            524,
+                            551
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Ends & Fair Sahari__12": {
+                        "value": "4.45",
+                        "position": [
+                            542,
+                            545,
+                            559,
+                            551
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Safar/ Rabbi Ul Awwal__13": {
+                        "value": "21",
+                        "position": [
+                            583,
+                            545,
+                            594,
+                            551
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Day__14": {
+                        "value": "Sun",
+                        "position": [
+                            610,
+                            544,
+                            624,
+                            551
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sep__15": {
+                        "value": "18",
+                        "position": [
+                            642,
+                            545,
+                            652,
+                            551
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                },
+                {
+                    "Isha__1": {
+                        "value": "10.00",
+                        "position": [
+                            193,
+                            560,
+                            214,
+                            565
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Time Maghrib__2": {
+                        "value": "7,17",
+                        "position": [
+                            230,
+                            560,
+                            248,
+                            566
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__3": {
+                        "value": "5.45",
+                        "position": [
+                            261,
+                            560,
+                            280,
+                            566
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__4": {
+                        "value": "2.00",
+                        "position": [
+                            287,
+                            560,
+                            305,
+                            566
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Fajr__5": {
+                        "value": "6.15",
+                        "position": [
+                            313,
+                            560,
+                            331,
+                            566
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "__6": {
+                        "value": "12.02",
+                        "position": [
+                            342,
+                            560,
+                            364,
+                            566
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Isha__7": {
+                        "value": "9.16",
+                        "position": [
+                            377,
+                            560,
+                            395,
+                            565
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunset__8": {
+                        "value": "7.17",
+                        "position": [
+                            411,
+                            559,
+                            428,
+                            566
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__9": {
+                        "value": "5.16",
+                        "position": [
+                            443,
+                            559,
+                            460,
+                            565
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__10": {
+                        "value": "1.03",
+                        "position": [
+                            474,
+                            560,
+                            492,
+                            565
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunrise__11": {
+                        "value": "6.47",
+                        "position": [
+                            506,
+                            560,
+                            524,
+                            566
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Ends & Fair Sahari__12": {
+                        "value": "4.47",
+                        "position": [
+                            542,
+                            560,
+                            559,
+                            566
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Safar/ Rabbi Ul Awwal__13": {
+                        "value": "22",
+                        "position": [
+                            583,
+                            560,
+                            592,
+                            565
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Day__14": {
+                        "value": "Mon",
+                        "position": [
+                            611,
+                            560,
+                            629,
+                            566
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sep__15": {
+                        "value": "19",
+                        "position": [
+                            641,
+                            560,
+                            655,
+                            566
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                },
+                {
+                    "Isha__1": {
+                        "value": "10.00",
+                        "position": [
+                            192,
+                            572,
+                            216,
+                            583
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Time Maghrib__2": {
+                        "value": "7.15",
+                        "position": [
+                            229,
+                            575,
+                            247,
+                            581
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__3": {
+                        "value": "5.45",
+                        "position": [
+                            262,
+                            575,
+                            279,
+                            582
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__4": {
+                        "value": "2.00",
+                        "position": [
+                            287,
+                            575,
+                            304,
+                            582
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Fajr__5": {
+                        "value": "6.15",
+                        "position": [
+                            314,
+                            575,
+                            330,
+                            582
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "__6": {
+                        "value": "12.02",
+                        "position": [
+                            342,
+                            575,
+                            365,
+                            582
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Isha__7": {
+                        "value": "9.14",
+                        "position": [
+                            377,
+                            575,
+                            395,
+                            581
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunset__8": {
+                        "value": "7.15",
+                        "position": [
+                            411,
+                            574,
+                            429,
+                            581
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__9": {
+                        "value": "5.14",
+                        "position": [
+                            444,
+                            575,
+                            461,
+                            582
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__10": {
+                        "value": "1.03",
+                        "position": [
+                            473,
+                            575,
+                            490,
+                            581
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunrise__11": {
+                        "value": "6.49",
+                        "position": [
+                            506,
+                            575,
+                            524,
+                            581
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    },
+                    "Ends & Fair Sahari__12": {
+                        "value": "4.50",
+                        "position": [
+                            542,
+                            575,
+                            558,
+                            580
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Safar/ Rabbi Ul Awwal__13": {
+                        "value": "23",
+                        "position": [
+                            583,
+                            575,
+                            593,
+                            580
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Day__14": {
+                        "value": "Tue",
+                        "position": [
+                            610,
+                            575,
+                            626,
+                            581
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sep__15": {
+                        "value": "20",
+                        "position": [
+                            641,
+                            575,
+                            652,
+                            580
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                },
+                {
+                    "Isha__1": {
+                        "value": "10.00",
+                        "position": [
+                            192,
+                            590,
+                            214,
+                            597
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Time Maghrib__2": {
+                        "value": "7.13",
+                        "position": [
+                            229,
+                            590,
+                            247,
+                            596
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__3": {
+                        "value": "5.45",
+                        "position": [
+                            262,
+                            591,
+                            279,
+                            597
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__4": {
+                        "value": "2.00",
+                        "position": [
+                            287,
+                            591,
+                            305,
+                            597
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Fajr__5": {
+                        "value": "6.15",
+                        "position": [
+                            313,
+                            591,
+                            331,
+                            597
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "__6": {
+                        "value": "12.02",
+                        "position": [
+                            342,
+                            591,
+                            364,
+                            597
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Isha__7": {
+                        "value": "9.11",
+                        "position": [
+                            378,
+                            591,
+                            396,
+                            596
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunset__8": {
+                        "value": "7.13",
+                        "position": [
+                            411,
+                            590,
+                            429,
+                            596
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__9": {
+                        "value": "5.12",
+                        "position": [
+                            444,
+                            590,
+                            461,
+                            597
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__10": {
+                        "value": "1.03",
+                        "position": [
+                            474,
+                            591,
+                            492,
+                            597
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunrise__11": {
+                        "value": "6.51",
+                        "position": [
+                            506,
+                            591,
+                            524,
+                            597
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Ends & Fair Sahari__12": {
+                        "value": "4.52",
+                        "position": [
+                            542,
+                            591,
+                            560,
+                            597
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Safar/ Rabbi Ul Awwal__13": {
+                        "value": "24",
+                        "position": [
+                            583,
+                            591,
+                            593,
+                            597
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Day__14": {
+                        "value": "Wed",
+                        "position": [
+                            610,
+                            590,
+                            629,
+                            597
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sep__15": {
+                        "value": "21",
+                        "position": [
+                            641,
+                            591,
+                            652,
+                            596
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                },
+                {
+                    "Isha__1": {
+                        "value": "10.00",
+                        "position": [
+                            192,
+                            606,
+                            215,
+                            612
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Time Maghrib__2": {
+                        "value": "7.10",
+                        "position": [
+                            230,
+                            607,
+                            247,
+                            612
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__3": {
+                        "value": "5.45",
+                        "position": [
+                            262,
+                            606,
+                            277,
+                            612
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__4": {
+                        "value": "2.00",
+                        "position": [
+                            286,
+                            606,
+                            303,
+                            612
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Fajr__5": {
+                        "value": "6.15",
+                        "position": [
+                            313,
+                            606,
+                            330,
+                            612
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "__6": {
+                        "value": "12.01",
+                        "position": [
+                            341,
+                            606,
+                            364,
+                            612
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Isha__7": {
+                        "value": "9.08",
+                        "position": [
+                            378,
+                            606,
+                            396,
+                            611
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunset__8": {
+                        "value": "7.10",
+                        "position": [
+                            411,
+                            606,
+                            430,
+                            611
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__9": {
+                        "value": "5.10",
+                        "position": [
+                            443,
+                            607,
+                            461,
+                            613
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__10": {
+                        "value": "1.02",
+                        "position": [
+                            474,
+                            607,
+                            492,
+                            612
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    },
+                    "Sunrise__11": {
+                        "value": "6.52",
+                        "position": [
+                            506,
+                            607,
+                            524,
+                            612
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Ends & Fair Sahari__12": {
+                        "value": "4.54",
+                        "position": [
+                            542,
+                            606,
+                            559,
+                            613
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Safar/ Rabbi Ul Awwal__13": {
+                        "value": "25",
+                        "position": [
+                            583,
+                            606,
+                            592,
+                            611
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Day__14": {
+                        "value": "Thu",
+                        "position": [
+                            611,
+                            606,
+                            626,
+                            612
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sep__15": {
+                        "value": "22",
+                        "position": [
+                            636,
+                            602,
+                            658,
+                            616
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    }
+                },
+                {
+                    "Isha__1": {
+                        "value": "10.00",
+                        "position": [
+                            192,
+                            622,
+                            215,
+                            628
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Time Maghrib__2": {
+                        "value": "7.08",
+                        "position": [
+                            229,
+                            621,
+                            247,
+                            628
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__3": {
+                        "value": "5.45",
+                        "position": [
+                            261,
+                            622,
+                            279,
+                            628
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__4": {
+                        "value": "1.30",
+                        "position": [
+                            288,
+                            622,
+                            305,
+                            628
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Fajr__5": {
+                        "value": "6.15",
+                        "position": [
+                            313,
+                            622,
+                            330,
+                            628
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "__6": {
+                        "value": "12.01",
+                        "position": [
+                            342,
+                            622,
+                            364,
+                            628
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Isha__7": {
+                        "value": "9.05",
+                        "position": [
+                            378,
+                            621,
+                            396,
+                            628
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunset__8": {
+                        "value": "7.08",
+                        "position": [
+                            411,
+                            621,
+                            430,
+                            628
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__9": {
+                        "value": "5.08",
+                        "position": [
+                            443,
+                            622,
+                            463,
+                            628
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__10": {
+                        "value": "1.02",
+                        "position": [
+                            474,
+                            621,
+                            492,
+                            628
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    },
+                    "Sunrise__11": {
+                        "value": "6.54",
+                        "position": [
+                            507,
+                            621,
+                            523,
+                            628
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Ends & Fair Sahari__12": {
+                        "value": "4.56",
+                        "position": [
+                            541,
+                            621,
+                            559,
+                            628
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Safar/ Rabbi Ul Awwal__13": {
+                        "value": "26",
+                        "position": [
+                            583,
+                            622,
+                            592,
+                            628
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Day__14": {
+                        "value": "Fri",
+                        "position": [
+                            610,
+                            622,
+                            621,
+                            628
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sep__15": {
+                        "value": "23",
+                        "position": [
+                            641,
+                            621,
+                            652,
+                            628
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                },
+                {
+                    "Isha__1": {
+                        "value": "9.30",
+                        "position": [
+                            194,
+                            636,
+                            212,
+                            643
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Time Maghrib__2": {
+                        "value": "7.05",
+                        "position": [
+                            229,
+                            636,
+                            247,
+                            643
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__3": {
+                        "value": "5.30",
+                        "position": [
+                            261,
+                            637,
+                            279,
+                            643
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__4": {
+                        "value": "2.00",
+                        "position": [
+                            287,
+                            637,
+                            305,
+                            643
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Fajr__5": {
+                        "value": "6.15",
+                        "position": [
+                            313,
+                            637,
+                            331,
+                            643
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "__6": {
+                        "value": "12.01",
+                        "position": [
+                            342,
+                            637,
+                            364,
+                            643
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Isha__7": {
+                        "value": "9.02",
+                        "position": [
+                            378,
+                            636,
+                            395,
+                            643
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunset__8": {
+                        "value": "7.05",
+                        "position": [
+                            412,
+                            635,
+                            429,
+                            643
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__9": {
+                        "value": "5.06",
+                        "position": [
+                            444,
+                            636,
+                            460,
+                            644
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__10": {
+                        "value": "1.01",
+                        "position": [
+                            474,
+                            637,
+                            490,
+                            642
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunrise__11": {
+                        "value": "6.56",
+                        "position": [
+                            506,
+                            637,
+                            524,
+                            644
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Ends & Fair Sahari__12": {
+                        "value": "4.58",
+                        "position": [
+                            542,
+                            637,
+                            558,
+                            642
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    },
+                    "Safar/ Rabbi Ul Awwal__13": {
+                        "value": "27",
+                        "position": [
+                            583,
+                            637,
+                            593,
+                            643
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Day__14": {
+                        "value": "Sat",
+                        "position": [
+                            610,
+                            637,
+                            624,
+                            644
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sep__15": {
+                        "value": "24",
+                        "position": [
+                            641,
+                            637,
+                            652,
+                            642
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                },
+                {
+                    "Isha__1": {
+                        "value": "9.30",
+                        "position": [
+                            194,
+                            653,
+                            212,
+                            659
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Time Maghrib__2": {
+                        "value": "7.03",
+                        "position": [
+                            229,
+                            652,
+                            247,
+                            659
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__3": {
+                        "value": "5.30",
+                        "position": [
+                            262,
+                            652,
+                            279,
+                            658
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__4": {
+                        "value": "2.00",
+                        "position": [
+                            286,
+                            652,
+                            304,
+                            658
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Fajr__5": {
+                        "value": "6.15",
+                        "position": [
+                            312,
+                            652,
+                            330,
+                            658
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "__6": {
+                        "value": "12.01",
+                        "position": [
+                            341,
+                            652,
+                            363,
+                            658
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Isha__7": {
+                        "value": "9.00",
+                        "position": [
+                            378,
+                            652,
+                            396,
+                            659
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunset__8": {
+                        "value": "7.03",
+                        "position": [
+                            412,
+                            652,
+                            429,
+                            658
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__9": {
+                        "value": "5.03",
+                        "position": [
+                            443,
+                            652,
+                            461,
+                            658
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__10": {
+                        "value": "1.01",
+                        "position": [
+                            474,
+                            653,
+                            491,
+                            658
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunrise__11": {
+                        "value": "6.58",
+                        "position": [
+                            506,
+                            652,
+                            524,
+                            659
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Ends & Fair Sahari__12": {
+                        "value": "5.00",
+                        "position": [
+                            542,
+                            652,
+                            560,
+                            659
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Safar/ Rabbi Ul Awwal__13": {
+                        "value": "28",
+                        "position": [
+                            584,
+                            652,
+                            594,
+                            658
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Day__14": {
+                        "value": "Sun",
+                        "position": [
+                            610,
+                            652,
+                            625,
+                            658
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sep__15": {
+                        "value": "25 21",
+                        "position": [
+                            641,
+                            651,
+                            652,
+                            664
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                },
+                {
+                    "Isha__1": {
+                        "value": "9.30",
+                        "position": [
+                            194,
+                            667,
+                            212,
+                            673
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Time Maghrib__2": {
+                        "value": "7.00",
+                        "position": [
+                            230,
+                            668,
+                            247,
+                            674
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__3": {
+                        "value": "5.30",
+                        "position": [
+                            262,
+                            667,
+                            280,
+                            674
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__4": {
+                        "value": "2.00",
+                        "position": [
+                            287,
+                            667,
+                            305,
+                            674
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Fajr__5": {
+                        "value": "6.15",
+                        "position": [
+                            313,
+                            667,
+                            331,
+                            674
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "__6": {
+                        "value": "12.01-",
+                        "position": [
+                            342,
+                            667,
+                            368,
+                            674
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Isha__7": {
+                        "value": "8.57",
+                        "position": [
+                            378,
+                            667,
+                            396,
+                            674
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunset__8": {
+                        "value": "7.00",
+                        "position": [
+                            411,
+                            667,
+                            429,
+                            673
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__9": {
+                        "value": "5.01",
+                        "position": [
+                            443,
+                            668,
+                            461,
+                            674
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__10": {
+                        "value": "1.01",
+                        "position": [
+                            474,
+                            668,
+                            491,
+                            674
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunrise__11": {
+                        "value": "6.59",
+                        "position": [
+                            507,
+                            668,
+                            524,
+                            674
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Ends & Fair Sahari__12": {
+                        "value": "5.02",
+                        "position": [
+                            541,
+                            668,
+                            559,
+                            674
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Safar/ Rabbi Ul Awwal__13": {
+                        "value": "29",
+                        "position": [
+                            583,
+                            668,
+                            594,
+                            674
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Day__14": {
+                        "value": "Mon",
+                        "position": [
+                            611,
+                            667,
+                            629,
+                            673
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sep__15": {
+                        "value": "26",
+                        "position": [
+                            642,
+                            667,
+                            650,
+                            673
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                },
+                {
+                    "Isha__1": {
+                        "value": "9.30",
+                        "position": [
+                            194,
+                            683,
+                            212,
+                            689
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Time Maghrib__2": {
+                        "value": "6.57",
+                        "position": [
+                            229,
+                            682,
+                            247,
+                            688
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__3": {
+                        "value": "5.30",
+                        "position": [
+                            262,
+                            683,
+                            279,
+                            689
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__4": {
+                        "value": "2.00",
+                        "position": [
+                            287,
+                            683,
+                            304,
+                            689
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Fajr__5": {
+                        "value": "6.15",
+                        "position": [
+                            313,
+                            683,
+                            330,
+                            689
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "__6": {
+                        "value": "12.01",
+                        "position": [
+                            342,
+                            683,
+                            365,
+                            689
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Isha__7": {
+                        "value": "8.54",
+                        "position": [
+                            378,
+                            683,
+                            396,
+                            689
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunset__8": {
+                        "value": "6.57",
+                        "position": [
+                            412,
+                            683,
+                            429,
+                            689
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__9": {
+                        "value": "4.59",
+                        "position": [
+                            444,
+                            682,
+                            461,
+                            689
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__10": {
+                        "value": "1.00",
+                        "position": [
+                            474,
+                            683,
+                            491,
+                            689
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunrise__11": {
+                        "value": "7.01",
+                        "position": [
+                            507,
+                            683,
+                            523,
+                            689
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Ends & Fair Sahari__12": {
+                        "value": "5.04",
+                        "position": [
+                            542,
+                            683,
+                            559,
+                            689
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Safar/ Rabbi Ul Awwal__13": {
+                        "value": "30 or 1",
+                        "position": [
+                            574,
+                            683,
+                            602,
+                            688
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Day__14": {
+                        "value": "Tue",
+                        "position": [
+                            609,
+                            683,
+                            626,
+                            688
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sep__15": {
+                        "value": "27",
+                        "position": [
+                            641,
+                            682,
+                            651,
+                            689
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                },
+                {
+                    "Isha__1": {
+                        "value": "9.30",
+                        "position": [
+                            194,
+                            698,
+                            212,
+                            704
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Time Maghrib__2": {
+                        "value": "6.55",
+                        "position": [
+                            230,
+                            698,
+                            247,
+                            704
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__3": {
+                        "value": "5.30",
+                        "position": [
+                            262,
+                            698,
+                            279,
+                            705
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__4": {
+                        "value": "2.00",
+                        "position": [
+                            287,
+                            698,
+                            305,
+                            705
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Fajr__5": {
+                        "value": "6.15",
+                        "position": [
+                            313,
+                            698,
+                            330,
+                            705
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "__6": {
+                        "value": "12.00",
+                        "position": [
+                            342,
+                            698,
+                            365,
+                            705
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Isha__7": {
+                        "value": "8.51",
+                        "position": [
+                            378,
+                            698,
+                            396,
+                            705
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunset__8": {
+                        "value": "6.55",
+                        "position": [
+                            412,
+                            698,
+                            429,
+                            704
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__9": {
+                        "value": "4.57",
+                        "position": [
+                            443,
+                            698,
+                            462,
+                            705
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__10": {
+                        "value": "1.00",
+                        "position": [
+                            474,
+                            699,
+                            491,
+                            704
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunrise__11": {
+                        "value": "7.03",
+                        "position": [
+                            507,
+                            698,
+                            522,
+                            704
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Ends & Fair Sahari__12": {
+                        "value": "5.06",
+                        "position": [
+                            542,
+                            698,
+                            558,
+                            705
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Safar/ Rabbi Ul Awwal__13": {
+                        "value": "1",
+                        "position": [
+                            585,
+                            698,
+                            591,
+                            704
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Day__14": {
+                        "value": "Wed",
+                        "position": [
+                            610,
+                            698,
+                            628,
+                            705
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sep__15": {
+                        "value": "28",
+                        "position": [
+                            640,
+                            698,
+                            651,
+                            704
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                },
+                {
+                    "Isha__1": {
+                        "value": "9.30",
+                        "position": [
+                            194,
+                            713,
+                            211,
+                            721
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Time Maghrib__2": {
+                        "value": "6.53",
+                        "position": [
+                            230,
+                            713,
+                            247,
+                            720
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__3": {
+                        "value": "5.30",
+                        "position": [
+                            262,
+                            714,
+                            279,
+                            720
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__4": {
+                        "value": "2.00",
+                        "position": [
+                            287,
+                            714,
+                            304,
+                            720
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Fajr__5": {
+                        "value": "6.15",
+                        "position": [
+                            313,
+                            714,
+                            330,
+                            720
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "__6": {
+                        "value": "12.00",
+                        "position": [
+                            342,
+                            714,
+                            365,
+                            720
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Isha__7": {
+                        "value": "8.49",
+                        "position": [
+                            377,
+                            712,
+                            395,
+                            721
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunset__8": {
+                        "value": "6.53",
+                        "position": [
+                            411,
+                            712,
+                            429,
+                            721
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__9": {
+                        "value": "4.55",
+                        "position": [
+                            444,
+                            713,
+                            461,
+                            720
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__10": {
+                        "value": "1.00",
+                        "position": [
+                            474,
+                            713,
+                            491,
+                            721
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunrise__11": {
+                        "value": "7.05",
+                        "position": [
+                            507,
+                            714,
+                            525,
+                            720
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Ends & Fair Sahari__12": {
+                        "value": "5.08",
+                        "position": [
+                            542,
+                            713,
+                            558,
+                            721
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Safar/ Rabbi Ul Awwal__13": {
+                        "value": "2",
+                        "position": [
+                            585,
+                            714,
+                            591,
+                            720
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Day__14": {
+                        "value": "Thu",
+                        "position": [
+                            611,
+                            714,
+                            626,
+                            720
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sep__15": {
+                        "value": "29",
+                        "position": [
+                            642,
+                            714,
+                            652,
+                            720
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                },
+                {
+                    "Isha__1": {
+                        "value": "9.30",
+                        "position": [
+                            194,
+                            729,
+                            212,
+                            735
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Time Maghrib__2": {
+                        "value": "6.51",
+                        "position": [
+                            230,
+                            729,
+                            248,
+                            735
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__3": {
+                        "value": "5.30",
+                        "position": [
+                            261,
+                            729,
+                            279,
+                            735
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__4": {
+                        "value": "1.30",
+                        "position": [
+                            287,
+                            729,
+                            306,
+                            735
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Fajr__5": {
+                        "value": "6.15",
+                        "position": [
+                            313,
+                            729,
+                            331,
+                            735
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "__6": {
+                        "value": "12.00",
+                        "position": [
+                            342,
+                            729,
+                            364,
+                            735
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Isha__7": {
+                        "value": "8.46",
+                        "position": [
+                            378,
+                            728,
+                            395,
+                            735
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunset__8": {
+                        "value": "6.51",
+                        "position": [
+                            412,
+                            728,
+                            428,
+                            735
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Asr__9": {
+                        "value": "4.53",
+                        "position": [
+                            443,
+                            729,
+                            462,
+                            735
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Zuhr__10": {
+                        "value": "12.59",
+                        "position": [
+                            471,
+                            729,
+                            494,
+                            735
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sunrise__11": {
+                        "value": "7.06",
+                        "position": [
+                            506,
+                            728,
+                            524,
+                            735
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Ends & Fair Sahari__12": {
+                        "value": "5.10",
+                        "position": [
+                            542,
+                            728,
+                            559,
+                            736
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Safar/ Rabbi Ul Awwal__13": {
+                        "value": "3",
+                        "position": [
+                            585,
+                            728,
+                            592,
+                            736
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Day__14": {
+                        "value": "Fri",
+                        "position": [
+                            610,
+                            729,
+                            621,
+                            735
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Sep__15": {
+                        "value": "30",
+                        "position": [
+                            642,
+                            729,
+                            652,
+                            735
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                }
+            ]
+        }
+    }
+}
