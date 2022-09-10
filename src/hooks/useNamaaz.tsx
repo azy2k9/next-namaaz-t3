@@ -106,8 +106,8 @@ const useNamaaz = () => {
           time: today.zuhr
         },
         next: {
-          name: 'Zuhr',
-          time: today.zuhr
+          name: 'Asr',
+          time: today.asr
         }
       };
     }
@@ -119,8 +119,8 @@ const useNamaaz = () => {
           time: today.asr
         },
         next: {
-          name: 'Zuhr',
-          time: today.zuhr
+          name: 'Maghrib',
+          time: today.maghrib
         }
       };
     }
