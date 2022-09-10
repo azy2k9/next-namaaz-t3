@@ -13,7 +13,11 @@ const Home: NextPage = () => {
           name="description"
           content="Namaaz times for North Manchester Jamia Mosque"
         />
+        <meta charSet="utf-8" />
         <link rel="icon" href="/favicon.ico" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="apple-touch-icon" href="/logo192.png" />
+        <link rel="manifest" href="/manifest.json" />
       </Head>
       <main className="container flex flex-col min-h-screen min-w-full">
         <section className="flex flex-col justify-center items-center flex-1 bg-green-600 text-white font-semibold text-9xl text-center">
