@@ -43,7 +43,7 @@ const useNamaaz = () => {
     (namaaz) => namaaz.date === moment().format('ddd MMM DD YYYY')
   );
 
-  console.log("Todays namaaz: ", today);
+  console.log('Todays namaaz: ', today);
 
   const tomorrow = timetable.find(
     (namaaz) =>
@@ -64,7 +64,12 @@ const useNamaaz = () => {
     moment().isSameOrAfter(today?.isha) && moment().isBefore(tomorrow?.fajr);
 
   console.log({
-    inFajr, betweenFajrAndZuhr, inZuhr, inAsr, inMaghrib, inIsha
+    inFajr,
+    betweenFajrAndZuhr,
+    inZuhr,
+    inAsr,
+    inMaghrib,
+    inIsha
   });
 
   if (today) {
